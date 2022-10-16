@@ -51,7 +51,7 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/vizucode
+[1]: https://twitter.com/hirasakavizu
 [2]: https://github.com/vizucode
 [3]: https://www.linkedin.com/in/havis-iqbal/
 
