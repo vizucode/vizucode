@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/vizucode/vizucode/main/wave.gif" width="30px" height="30px" />
 
-My name is Havis Iqbal and I'm a software developer. I'm from Indonesia, living in East Java and currently self employeed. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Havis Iqbal and I'm a software developer. I'm from Indonesia, living in East Java and currently self employed.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
