@@ -1,5 +1,5 @@
 
-[![Heades](https://raw.githubusercontent.com/vizucode/vizucode/main/banner.png "Header")](https://dev.to/vizucode)
+[![Header](https://raw.githubusercontent.com/vizucode/vizucode/main/banner.png "Header")](https://dev.to/vizucode)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/vizucode/vizucode/main/wave.gif" width="30px" height="30px" />
 
