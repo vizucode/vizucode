@@ -23,7 +23,7 @@ Driven by a love for technology and problem-solving, I am always on the lookout 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium]([https://dev.to/vizucode](https://vizucode.medium.com/)).
+Apart from coding, I also active writing a blog - you can find my articles on [Medium](https://vizucode.medium.com/).
 
 A sample of my recent articles:
 
