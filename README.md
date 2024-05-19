@@ -3,7 +3,14 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/vizucode/vizucode/main/wave.gif" width="30px" height="30px" />
 
-My name is Havis Iqbal and I'm a software developer. I'm from Indonesia, living in East Java and currently self employed.
+#### Hafiz Iqbal Sahrunizar
+Software Developer
+
+Greetings! I'm Hafiz Iqbal Sahrunizar, a passionate and dedicated software developer based in East Java, Indonesia. With a robust background in software engineering and a commitment to continuous learning, I have honed my skills in developing innovative and efficient software solutions.
+
+Currently self-employed, I take pride in my ability to tackle complex technical challenges and deliver high-quality results. My expertise spans across various programming languages and frameworks, allowing me to adapt and excel in diverse projects.
+
+Driven by a love for technology and problem-solving, I am always on the lookout for new opportunities to collaborate and create impactful software that meets the needs of users and businesses alike.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -16,12 +23,12 @@ My name is Havis Iqbal and I'm a software developer. I'm from Indonesia, living 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [DEV.to](https://dev.to/vizucode).
+Apart from coding, I also maintain a blog - you can find my articles on [Medium]([https://dev.to/vizucode](https://vizucode.medium.com/)).
 
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang Error Handling Dengan Framework Echo](https://dev.to/vizucode/golang-error-handling-dengan-echo-framework-3dpb)
+- [Book 1: The Software Cycle](https://vizucode.medium.com/book-1-the-software-cycle-8548b79e6d8b)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
