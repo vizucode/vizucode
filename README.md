@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/vizucode/vizucode/main/wave.gif" width="30px" height="30px" />
 
-#### Hafiz Iqbal Sahrunizar
+### Hafiz Iqbal Sahrunizar
 Software Developer
 
 Greetings! I'm Hafiz Iqbal Sahrunizar, a passionate and dedicated software developer based in East Java, Indonesia. With a robust background in software engineering and a commitment to continuous learning, I have honed my skills in developing innovative and efficient software solutions.
