@@ -8,7 +8,7 @@ Software Developer
 
 Greetings! I'm Hafiz Iqbal Sahrunizar, a passionate and dedicated software developer based in East Java, Indonesia. With a robust background in software engineering and a commitment to continuous learning, I have honed my skills in developing innovative and efficient software solutions.
 
-Currently self-employed, I take pride in my ability to tackle complex technical challenges and deliver high-quality results. My expertise spans across various programming languages and frameworks, allowing me to adapt and excel in diverse projects.
+Currently self-employed, I take pride in my ability to tackle complex technical challenges and deliver high-quality results. My expertise spans across various programming languages and frameworks, allowing me to adapt and diverse projects.
 
 Driven by a love for technology and problem-solving, I am always on the lookout for new opportunities to collaborate and create impactful software that meets the needs of users and businesses alike.
 
