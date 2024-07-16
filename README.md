@@ -1,7 +1,7 @@
 
 [![Header](https://raw.githubusercontent.com/vizucode/vizucode/main/banner.png "Header")](https://dev.to/vizucode)
 
-# Hello, folks <img src="https://raw.githubusercontent.com/vizucode/vizucode/main/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/vizucode/vizucode/main/wave.gif" width="30px" height="30px" />
 
 ### Hafiz Iqbal Sahrunizar
 Software Developer
