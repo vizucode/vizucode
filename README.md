@@ -62,13 +62,6 @@ I actively write about software, systems, and learning journeys on **Medium**.
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vizucode&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizucode&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vizucode&theme=tokyonight" />
