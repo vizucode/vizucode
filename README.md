@@ -1,70 +1,86 @@
+[![Header](https://raw.githubusercontent.com/vizucode/vizucode/main/banner.png)](https://dev.to/vizucode)
 
-[![Header](https://raw.githubusercontent.com/vizucode/vizucode/main/banner.png "Header")](https://dev.to/vizucode)
+<h1 align="center">
+  Hi there, I'm Hafiz 👋
+</h1>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/vizucode/vizucode/main/wave.gif" width="30px" height="30px" />
+<p align="center">
+  <b>Software Developer</b> • Backend Enthusiast • Open Source Learner  
+  <br/>
+  📍 East Java, Indonesia
+</p>
 
-### Hafiz Iqbal Sahrunizar
-Software Developer
+<p align="center">
+  <a href="https://vizucode.medium.com/"><img src="https://img.shields.io/badge/Blog-Medium-black?style=flat&logo=medium"></a>
+  <a href="https://github.com/vizucode"><img src="https://img.shields.io/badge/GitHub-vizucode-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/havis-iqbal/"><img src="https://img.shields.io/badge/LinkedIn-Hafiz_Iqbal-blue?style=flat&logo=linkedin"></a>
+</p>
 
-Greetings! I'm Hafiz Iqbal Sahrunizar, a passionate and dedicated software developer based in East Java, Indonesia. With a robust background in software engineering and a commitment to continuous learning, I have honed my skills in developing innovative and efficient software solutions.
+---
 
-Currently self-employed, I take pride in my ability to tackle complex technical challenges and deliver high-quality results. My expertise spans across various programming languages and frameworks, allowing me to adapt and diverse projects.
+## 👨‍💻 About Me
 
-Driven by a love for technology and problem-solving, I am always on the lookout for new opportunities to collaborate and create impactful software that meets the needs of users and businesses alike.
+I'm a **self-employed software developer** who enjoys building reliable systems and solving real-world problems through code.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+- 💡 Strong interest in **backend systems & distributed architecture**
+- 🛠 Love working with **clean code, performance, and scalability**
+- 📚 Continuous learner — writing helps me think better
+- 🤝 Open to **collaboration, freelance, and OSS projects**
 
-## &#x270d; Blog & Writing
+> *"Code is not just about making things work — it's about making them last."*
 
-Apart from coding, I also active writing a blog - you can find my articles on [Medium](https://vizucode.medium.com/).
+---
 
-A sample of my recent articles:
+## 🧰 Tech Stack
 
-<!-- BLOG-POST-LIST:START -->
+### ⚙️ Core
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 🧪 Dev & Ops
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### 🧠 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I actively write about software, systems, and learning journeys on **Medium**.
+
+📖 **Recent Article**
 - [Book 1: The Software Cycle](https://vizucode.medium.com/book-1-the-software-cycle-8548b79e6d8b)
-<!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/vizucode/vizucode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizucode&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/vizucode/vizucode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vizucode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vizucode GitHub Stats" />
-</a>
-<a href="http://www.github.com/vizucode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vizucode&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+> Writing helps me simplify complex ideas — and maybe help others too.
 
-<!-- links to social media icons -->
+---
 
-<!-- icons with padding -->
+## 📊 GitHub Activity
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vizucode&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
-<!-- icons without padding -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizucode&layout=compact&theme=tokyonight" />
+</p>
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vizucode&theme=tokyonight" />
+</p>
 
+---
 
-<!-- links to your social media accounts -->
+## 🤝 Let's Connect
 
-[1]: https://twitter.com/hirasakavizu
-[2]: https://github.com/vizucode
-[3]: https://www.linkedin.com/in/havis-iqbal/
+- 💼 LinkedIn: https://www.linkedin.com/in/havis-iqbal/
+- ✍️ Medium: https://vizucode.medium.com/
+- 🧑‍💻 GitHub: https://github.com/vizucode
 
+---
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+⭐️ *If you like what I build, feel free to star or follow — it really helps!*
