@@ -45,6 +45,7 @@ I'm a **self-employed software developer** who enjoys building reliable systems 
 
 ### 🧠 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-000000?style=flat&logo=zed&logoColor=white)
 
 ---
 
